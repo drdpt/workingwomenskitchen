@@ -1,5 +1,5 @@
 ---
-title: 'Egg Curry with Rice.jpg'
+title: 'Egg Curry with Rice'
 metadate: 'hide'
 categories: [Egg, Indian]
 image: '/assets/images/egg-curry-with-rice.jpg'
